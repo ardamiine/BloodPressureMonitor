@@ -1,0 +1,15 @@
+*If you are a commercial organisation / spin-off then please contact pjtoye@gmail.com or requests@vitalvideos.org for more information about the complete datasets totalling ~5000 participants*
+
+First you must read and complete all required fields in the "DTA - Research.pdf" document.
+It is very important to disclose the names of all people working on the project as well as the existence of previous/current ties to organisations working on similar technology.
+
+Then you must either manually or digitally sign this document. Either is fine.
+
+Send the completed and signed document to pjtoye@gmail.com (through your organisation e-mail) 
+and propose a couple of short timeslots (20min) in the coming weeks that are compatible with 8:00am or 4:00-5:30pm Brussels time (Belgium, West-Europe).
+
+Please also provide a link to your Google Scholar profile or your personal page on your university's website.
+
+Before the meeting I will review your signed document and identity.
+The meeting allows me to know who will be using the dataset and allows you to ask any questions you have concerning the dataset / license.
+After the meeting I will send you the access credentials to the FTP server.
